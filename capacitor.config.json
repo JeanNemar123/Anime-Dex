@@ -1,8 +1,0 @@
-{
-  "appId": "com.animedex.app",
-  "appName": "AnimeDex",
-  "webDir": "public",
-  "server": {
-    "androidScheme": "https"
-  }
-}
